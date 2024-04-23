@@ -27,7 +27,7 @@ const SignUpForm = () => {
       }
 
       const response = await axios.post(
-        "http://localhost:3000/api/auth/signup",
+        "https://delite-krum.onrender.com/api/auth/signup",
         {
           firstName,
           lastName,
