@@ -1,7 +1,7 @@
-Sign Up Form Application
-This is a simple Sign Up form application built using React for the frontend and Node.js with Express for the backend. The application allows users to sign up, verify their email through OTP, and sign in securely.
+##Sign Up Form Application
+#This is a simple Sign Up form application built using React for the frontend and Node.js with Express for the backend. The application allows users to sign up, verify their email through OTP, and sign in securely.
 
-Features
+##Features
 1.User-friendly Sign Up form with input validation
 2.Password and retype password validation
 3.Email verification using OTP sent via email (Nodemailer)
@@ -15,7 +15,7 @@ Features
 11.Tailwind CSS
 
 
-Backend
+##Backend
 1.Node.js
 2.Express.js
 3.MongoDB (Mongoose for ODM)
