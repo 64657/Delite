@@ -47,7 +47,7 @@ const SignUpForm = () => {
   const handleVerifyOTP = async () => {
     try {
       const response = await axios.post(
-        "http://localhost:3000/api/auth/verify-otp",
+        "https://delite-krum.onrender.com/api/auth/verify-otp",
         {
           email,
           otp,

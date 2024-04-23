@@ -33,26 +33,4 @@ const HomePage = () => {
 export default HomePage;
 
 
-// import React from 'react';
-// import SignUpImage from './SignUp.jpg';
-// import SignInImage from './SignIn.jpg';
 
-// const HomePage = () => {
-//   return (
-//     <div className="container mx-auto px-4">
-//         <div>
-//       <h1 className="text-4xl font-bold mb-8">Welcome to Your App</h1>
-//       </div>
-//       <div className="flex">
-//         <div className="w-1/2 pr-4">
-//           <img src={SignUpImage} alt="SignUp" className="w-1/2" />
-//         </div>
-//         <div className="w-1/2 pl-4">
-//           <img src={SignInImage} alt="SignIn" className="w-1/2" />
-//         </div>
-//       </div>
-//      </div>
-//   );
-// };
-
-// export default HomePage;
